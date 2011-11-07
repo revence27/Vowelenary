@@ -8,7 +8,7 @@ consonants, whose sequences are undefined (ranging from being random to
 spelling out the names of those numbers in that language -- these latter
 names may have to be neologisms).
 
-    In this case:
+In this case:
     A   E   I   O   U
     1   2   3   0   4
 
