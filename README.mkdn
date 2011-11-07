@@ -1,0 +1,18 @@
+Vowelenary Base
+===============
+
+A vowel counting system. Base n, where n is the number of distinct vowels
+in the alphabet. In this case, there are 5 vowels.
+A number is made of the digits that are interspersed with place-holder
+consonants, whose sequences are undefined (ranging from being random to
+spelling out the names of those numbers in that language -- these latter
+names may have to be neologisms).
+
+    In this case:
+    A   E   I   O   U
+    1   2   3   0   4
+
+Therefore it is equivalent to a base 5. Except that it is easy to
+read out loud.
+
+It is reasonably-general. :o)
